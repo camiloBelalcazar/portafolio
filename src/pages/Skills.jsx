@@ -9,7 +9,7 @@ const Skills = () => {
         <p className="text-[#8491A0]">With skills in over 4 different fields of design, I am the perfect person to hire when it comes to a full fledged project. Whatever your needs are, I can pretty much take on any challenge.</p>
       </section>
     
-     
+    
 
 
       <section className="p-4 md:grid md:grid-cols-2  ">
@@ -72,7 +72,7 @@ const Skills = () => {
       
 
                 {/* seccion inferior */}
-      <section className="md:grid md:grid-cols-2 md:p-4 gap-4 my-12 p-8 grid grid-cols-1">
+      <section className="md:grid md:grid-cols-2 md:p-4 gap-4 mt-12 p-8 grid grid-cols-1">
       <section>
       <div className="">        
         <h3 className="text-[#8491A0] px-6">MY PROJECTS</h3>
