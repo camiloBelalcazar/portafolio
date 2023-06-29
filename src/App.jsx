@@ -5,6 +5,7 @@ import Skills from './pages/Skills'
 import Work from './pages/Work'
 import Contact from './pages/Contact'
 import Header from './components/layout/Header'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
 
       </Routes>
       
+      <Footer/>
     </div>
   )
 }
