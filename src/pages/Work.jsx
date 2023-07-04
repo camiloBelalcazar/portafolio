@@ -21,7 +21,7 @@ const Work = () => {
             <div>
               <h2 className="text-2xl font-bold md:text-lg md:px-0"> <span className="text-[#3CC74E]">E-commerce</span> Product Designer</h2>
             </div>
-            <p className="text-[#8491A0] md:text-sm">I currently am the lead designer an the interaction design team for Google play.</p>
+            <p className="text-[#8491A0] md:text-sm">I currently am the lead designer an the interaction design team.</p>
           
           <div>
             <a className="text-[#3CC74E] hover:text-[#65e275]" href="https://e-comeerce-app.netlify.app/">https://e-comeerce-app.netlify.app/</a>
@@ -33,7 +33,7 @@ const Work = () => {
             <div className="grid justify-start">
               <h2 className="text-2xl font-bold md:text-lg md:px-0 "><span className="text-[#609BFF]">Crudd</span> Product Designer</h2>
             </div>
-            <p className="text-[#8491A0] md:text-sm">I´ve worked an a wide variety of internal tools for Facebook over the past 6 years.</p>
+            <p className="text-[#8491A0] md:text-sm">I currently am the lead designer an the interaction design team.</p>
             <div>
             <a className="text-[#609BFF] hover:text-[#95bbfc]" href="https://poetic-meerkat-5c81a5.netlify.app/">https://poetic-meerkat-5c81a5.netlify.app/</a>
           </div>
@@ -44,7 +44,7 @@ const Work = () => {
             <div >
               <h2 className="text-2xl font-bold md:text-lg md:px-0"><span className="text-[#E95D90] ">Pokedex</span> Product Designer</h2>
             </div>
-            <p className="text-[#8491A0] md:text-sm">I started my design career with Dribble. I was incharge of c'eating illustration for the platform. </p >
+            <p className="text-[#8491A0] md:text-sm">I currently am the lead designer an the interaction design team. </p >
             
             <div>
             <a className="text-[#E95D90] hover:text-[#e690b0] " href="https://app-pokedex-belal.netlify.app/">https://app-pokedex-belal.netlify.app/</a>
