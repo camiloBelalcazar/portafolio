@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div className="bg-gradient-to-l from-slate-500 text-2xl">
-      <section className="p-10 ">
+      <section className="p-4 ">
         <div>
           <h2 className="py-1 font-bold">Camilo B.</h2>
         </div>

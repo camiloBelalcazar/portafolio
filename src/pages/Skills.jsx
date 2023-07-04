@@ -74,7 +74,7 @@ const Skills = () => {
           <div className="">
             <h3 className="text-[#8491A0] px-6">MY PROJECTS</h3>
             <p className="text-3xl font-bold m-6 ">
-              Work that I’ve done for the past 8 years
+                My projects
             </p>
             <div className="bg-[#181823] p-4">
               <img src="/images/blogComida.png" alt="" />
