@@ -53,7 +53,7 @@ const Skills = () => {
         </section>
       </div>
 
-      <section className="grid grid-cols-4 gap-2 justify-items-center relative text-4xl p-6 gap-3 ">
+      <section className="grid grid-cols-4 gap-2 justify-items-center relative text-4xl p-6  ">
         <a className="bg-gray-900 p-2 rounded-md" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
           <i className="bx bxl-html5 hover:text-5xl transition-all "></i>
         </a>
