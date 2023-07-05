@@ -119,9 +119,7 @@ const Skills = () => {
             </p>
           </div>
 
-          <div className=" bg-black p-4 ">
-            <button>VIEW ALL PROJECTS</button>
-          </div>
+          
         </section>
       </section>
     </div>
