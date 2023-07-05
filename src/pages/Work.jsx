@@ -63,7 +63,7 @@ const Work = () => {
         <p className="text-[#8491A0] md:px-4">I think everyone wants the same thing - relationships with humanity, peace with the metaphysical, and experience with the universe. I try to grasp these things with my values: authenticity, creativity, & hospitality</p>
         </div>
 
-        <div>
+        <div className="p-2">
         <img src="/images/values.png" alt="" />
         </div>
       </section>
