@@ -19,35 +19,35 @@ const Work = () => {
           <section className="md:px-4">
             <div className="text-[#8491A0] text-6xl p-2">01</div>
             <div>
-              <h2 className="text-2xl font-bold md:text-lg md:px-0"> <span className="text-[#3CC74E]">E-commerce</span> Product Designer</h2>
+              <h2 className="text-2xl font-bold md:text-lg md:px-0"> <span className="text-[#737474] hover:text-[#bebdbd]">E-commerce</span> Product Designer</h2>
             </div>
             <p className="text-[#8491A0] md:text-sm">I currently am the lead designer an the interaction design team.</p>
           
           <div>
-            <a className="text-[#3CC74E] hover:text-[#65e275]" href="https://e-comeerce-app.netlify.app/">https://e-comeerce-app.netlify.app/</a>
+            <a className="text-[#737474] hover:text-[#bebdbd]" href="https://e-comeerce-app.netlify.app/">https://e-comeerce-app.netlify.app/</a>
           </div>
           </section>
 
           <section className="md:px-4">
             <div className="text-[#8491A0] text-6xl p-2">02</div>
             <div className="grid justify-start">
-              <h2 className="text-2xl font-bold md:text-lg md:px-0 "><span className="text-[#609BFF]">Crudd</span> Product Designer</h2>
+              <h2 className="text-2xl font-bold md:text-lg md:px-0 "><span className="text-[#737474] hover:text-[#bebdbd]">Crudd</span> Product Designer</h2>
             </div>
             <p className="text-[#8491A0] md:text-sm">I currently am the lead designer an the interaction design team.</p>
             <div>
-            <a className="text-[#609BFF] hover:text-[#95bbfc]" href="https://poetic-meerkat-5c81a5.netlify.app/">https://poetic-meerkat-5c81a5.netlify.app/</a>
+            <a className="text-[#737474] hover:text-[#bebdbd]" href="https://poetic-meerkat-5c81a5.netlify.app/">https://poetic-meerkat-5c81a5.netlify.app/</a>
           </div>
           </section>
 
           <section className="md:px-4">
-            <div className="text-[#8491A0] text-6xl p-2">03</div>
+            <div className="text-[#737474] hover:text-[#bebdbd] text-6xl p-2">03</div>
             <div >
-              <h2 className="text-2xl font-bold md:text-lg md:px-0"><span className="text-[#E95D90] ">Pokedex</span> Product Designer</h2>
+              <h2 className="text-2xl font-bold md:text-lg md:px-0"><span className="text-[#737474] hover:text-[#bebdbd]">Pokedex</span> Product Designer</h2>
             </div>
             <p className="text-[#8491A0] md:text-sm">I currently am the lead designer an the interaction design team. </p >
             
             <div>
-            <a className="text-[#E95D90] hover:text-[#e690b0] " href="https://app-pokedex-belal.netlify.app/">https://app-pokedex-belal.netlify.app/</a>
+            <a className="text-[#737474] hover:text-[#bebdbd] " href="https://app-pokedex-belal.netlify.app/">https://app-pokedex-belal.netlify.app/</a>
           </div>
           </section>
           </div>
@@ -57,7 +57,7 @@ const Work = () => {
       </section>
 
 
-      <section className="bg-[#FFF3E4] text-black p-4 md:grid md:grid-cols-2">
+      <section className=" bg-gradient-to-l from-slate-500 text-gray-600 p-4 md:grid md:grid-cols-2">
         <div className="">
         <h2 className="md:px-4">Philosophy & values</h2>
         <p className="text-[#8491A0] md:px-4">I think everyone wants the same thing - relationships with humanity, peace with the metaphysical, and experience with the universe. I try to grasp these things with my values: authenticity, creativity, & hospitality</p>
