@@ -77,45 +77,37 @@ const Skills = () => {
                 My projects
             </p>
             <div className="bg-[#181823] p-4">
-              <img src="/images/blogComida.png" alt="" />
+              <img src="/images/ecommerce.jpg" alt="" />
               <h2 className="text-2xl font-bold">Restaurant Website Design</h2>
               <p className="text-[#8491A0]">
-                I worked with the guys at CBRE to redesign their entire website
-                and mobile app fro both Android and iOS. This project lasted for
-                4 months and was a very challenging one.{" "}
+              this shopping app was created to demonstrate the proper use of the tools that compose it.{" "}
               </p>
             </div>
           </div>
 
           <div className="bg-[#181823] p-4 mt-4">
-            <img src="/images/appClima.png" alt="" />
+            <img src="/images/licor.jpg" alt="" />
             <h2 className="text-2xl font-bold">Mobile Dashboard</h2>
             <p className="text-[#8491A0]">
-              I worked with the guys at CBRE to redesign their entire website
-              and mobile app fro both Android and iOS. This project lasted for 4
-              months and was a very challenging one.
+            this shopping app was created to demonstrate the proper use of the tools that compose it.
             </p>
           </div>
         </section>
 
         <section>
           <div className="bg-[#181823] gap-4 p-4">
-            <img src="/images/tareas.png" alt="" />
+            <img src="/images/pokedex.jpg" alt="" />
             <h2 className="text-2xl font-bold">CoinView Mobile App Design</h2>
-            <p className="text-[#8491A0]">
-              I worked with the guys at CBRE to redesign their entire website
-              and mobile app fro both Android and iOS. This project lasted for 4
-              months and was a very challenging one.
+            <p className="text-[#8491A0]">              
+              the pokedex was a project that I really enjoyed doing because it is very complete, it took me back to my childhood.
             </p>
           </div>
 
           <div className="bg-[#181823] gap-4 p-4 mt-4">
-            <img src="/images/t-box.png" alt="" />
+            <img src="/images/rick.jpg" alt="" />
             <h2 className="text-2xl font-bold">T-Box Mobile Design</h2>
             <p className="text-[#8491A0]">
-              I worked with the guys at CBRE to redesign their entire website
-              and mobile app fro both Android and iOS. This project lasted for 4
-              months and was a very challenging one.
+            the rick and morty application allows us to show the use of paging. 
             </p>
           </div>
 
