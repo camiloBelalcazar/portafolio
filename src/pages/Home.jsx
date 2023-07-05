@@ -7,7 +7,7 @@ const Home = () => {
       <div className="md:absolute left-0 top-14 xl:top-24 ">
         <img
           className="min-[375px]:w-[100%] md:w-[370px] lg:w-[520px] xl:w-[700px] min-[1600px]:w-[800px]"
-          src="/images/ccb.png"
+          src="/images/ccb.jfif"
           alt=""
         />
       </div>
