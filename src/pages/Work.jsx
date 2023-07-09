@@ -24,7 +24,7 @@ const Work = () => {
             <p className="text-[#8491A0] md:text-sm">I currently am the lead designer an the interaction design team.</p>
           
           <div>
-            <a className="text-[#737474] hover:text-[#bebdbd]" href="https://e-comeerce-app.netlify.app/">https://e-comeerce-app.netlify.app/</a>
+            <a className="text-[#737474] hover:text-[#bebdbd]" href="https://e-commerce-app-belal.netlify.app">https://e-commerce-app-belal.netlify.app</a>
           </div>
           </section>
 
