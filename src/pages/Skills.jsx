@@ -54,16 +54,28 @@ const Skills = () => {
       </div>
 
       <section className="grid grid-cols-4 gap-2 justify-items-center relative text-4xl p-6  ">
-        <a className="bg-gray-900 p-2 rounded-md" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <a
+          className="bg-gray-900 p-2 rounded-md"
+          href="https://developer.mozilla.org/en-US/docs/Web/HTML"
+        >
           <i className="bx bxl-html5 hover:text-5xl transition-all "></i>
         </a>
-        <a className="bg-gray-900 p-2 rounded-md" href="https://developer.mozilla.org/es/docs/Web/CSS">
+        <a
+          className="bg-gray-900 p-2 rounded-md"
+          href="https://developer.mozilla.org/es/docs/Web/CSS"
+        >
           <i className="bx bxl-css3 hover:text-5xl transition-all"></i>
         </a>
-        <a className="bg-gray-900 p-2 rounded-md" href="https://developer.mozilla.org/es/docs/Web/JavaScript">
+        <a
+          className="bg-gray-900 p-2 rounded-md"
+          href="https://developer.mozilla.org/es/docs/Web/JavaScript"
+        >
           <i className="bx bxl-javascript hover:text-5xl transition-all"></i>
         </a>
-        <a className="bg-gray-900 p-2 rounded-md" href="https://react.dev/blog/2023/03/16/introducing-react-dev">
+        <a
+          className="bg-gray-900 p-2 rounded-md"
+          href="https://react.dev/blog/2023/03/16/introducing-react-dev"
+        >
           <i className="bx bxl-react hover:text-5xl transition-all"></i>
         </a>
       </section>
@@ -73,14 +85,13 @@ const Skills = () => {
         <section>
           <div className="">
             <h3 className="text-[#8491A0] px-6">MY PROJECTS</h3>
-            <p className="text-3xl font-bold m-6 ">
-                My projects
-            </p>
+            <p className="text-3xl font-bold m-6 ">My projects</p>
             <div className="bg-[#181823] p-4">
               <img src="/images/ecommerce.jpg" alt="" />
               <h2 className="text-2xl font-bold">Restaurant Website Design</h2>
               <p className="text-[#8491A0]">
-              this shopping app was created to demonstrate the proper use of the tools that compose it.{" "}
+                this shopping app was created to demonstrate the proper use of
+                the tools that compose it.{" "}
               </p>
             </div>
           </div>
@@ -89,7 +100,8 @@ const Skills = () => {
             <img src="/images/licor.jpg" alt="" />
             <h2 className="text-2xl font-bold">Mobile Dashboard</h2>
             <p className="text-[#8491A0]">
-            this shopping app was created to demonstrate the proper use of the tools that compose it.
+              this shopping app was created to demonstrate the proper use of the
+              tools that compose it.
             </p>
           </div>
         </section>
@@ -98,8 +110,9 @@ const Skills = () => {
           <div className="bg-[#181823] gap-4 p-4">
             <img src="/images/pokedex.jpg" alt="" />
             <h2 className="text-2xl font-bold">CoinView Mobile App Design</h2>
-            <p className="text-[#8491A0]">              
-              the pokedex was a project that I really enjoyed doing because it is very complete, it took me back to my childhood.
+            <p className="text-[#8491A0]">
+              the pokedex was a project that I really enjoyed doing because it
+              is very complete, it took me back to my childhood.
             </p>
           </div>
 
@@ -107,11 +120,10 @@ const Skills = () => {
             <img src="/images/rick.jpg" alt="" />
             <h2 className="text-2xl font-bold">T-Box Mobile Design</h2>
             <p className="text-[#8491A0]">
-            the rick and morty application allows us to show the use of paging. 
+              the rick and morty application allows us to show the use of
+              paging.
             </p>
           </div>
-
-          
         </section>
       </section>
     </div>

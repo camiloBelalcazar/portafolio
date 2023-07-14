@@ -13,7 +13,7 @@ const Footer = () => {
             <i className="bx bxl-linkedin-square "></i>
           </a>
           <a href="https://wa.me/qr/3NVPPRVHWB2PD1">
-          <i className='bx bxl-whatsapp' ></i>
+            <i className="bx bxl-whatsapp"></i>
           </a>
         </section>
       </section>

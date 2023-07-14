@@ -8,9 +8,13 @@ const Contact = () => {
             Each dribbble shot is made with love and care. Do check out my work
             on Github. Likes and comments are appreciated.
           </p>
-          <img className="pt-8 md:h-[390px] " src="/images/contact.jpg" alt="" />
+          <img
+            className="pt-8 md:h-[390px] "
+            src="/images/contact.jpg"
+            alt=""
+          />
         </div>
-        
+
         <div className="grid text-[#8491A0] p-4 gap-4">
           <div>
             <h2>Let’s talk business</h2>
