@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="bg-gradient-to-l from-slate-500 text-2xl">
       <section className="p-4 ">
         <div>
-          <h2 className="py-1 font-bold">Camilo B.</h2>
+          <h4 className="py-1 font-bold">Camilo B.</h4>
         </div>
         <section className="flex gap-1 ">
           <a href="https://github.com/camiloBelalcazar">
