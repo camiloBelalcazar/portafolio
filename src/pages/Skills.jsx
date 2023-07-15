@@ -3,7 +3,7 @@ const Skills = () => {
     <div className="bg-black gap-2 h-full md:grid  ">
       <div className="md:grid md:grid-cols-2 md:p-6">
         <section className="p-4 ">
-          <h2 className="text-2xl font-bold py-4 ">Skillset</h2>
+          <h4 className="text-2xl font-bold py-4 ">Skillset</h4>
           <p className="text-[#8491A0]">
             With skills in over 4 different fields of design, I am the perfect
             person to hire when it comes to a full fledged project. Whatever
@@ -14,7 +14,7 @@ const Skills = () => {
         <section className="p-4 md:grid md:grid-cols-2  ">
           <div className=" md:p-4">
             <img src="/images/vector.png" alt="" />
-            <h2 className="text-2xl font-bold">Frameworks</h2>
+            <h4 className="text-2xl font-bold">Frameworks</h4>
             <ul className="text-[#8491A0]">
               <li>React</li>
               <li>tailwind</li>
@@ -23,7 +23,7 @@ const Skills = () => {
 
           <div className=" md:p-4">
             <img src="/images/vector.png" alt="" />
-            <h2 className="text-2xl font-bold">Languages</h2>
+            <h4 className="text-2xl font-bold">Languages</h4>
             <ul className="text-[#8491A0]">
               <li>HTML</li>
               <li>CSS/SASS </li>
@@ -33,7 +33,7 @@ const Skills = () => {
 
           <div className=" md:p-4">
             <img src="/images/vector.png" alt="" />
-            <h2 className="text-2xl font-bold">Source Control</h2>
+            <h4 className="text-2xl font-bold">Source Control</h4>
             <ul className="text-[#8491A0]">
               <li>Git/Github</li>
             </ul>
@@ -41,7 +41,7 @@ const Skills = () => {
 
           <div className=" md:p-4">
             <img src="/images/vector.png" alt="" />
-            <h2 className="text-2xl font-bold">Other technoligy</h2>
+            <h4 className="text-2xl font-bold">Other technoligy</h4>
             <ul className="text-[#8491A0]">
               <li>Axios</li>
               <li>vite</li>
@@ -98,7 +98,7 @@ const Skills = () => {
 
           <div className="bg-[#181823] p-4 mt-4">
             <img src="/images/licor.jpg" alt="" />
-            <h2 className="text-2xl font-bold">Mobile Dashboard</h2>
+            <h4 className="text-2xl font-bold">Mobile Dashboard</h4>
             <p className="text-[#8491A0]">
               this shopping app was created to demonstrate the proper use of the
               tools that compose it.
@@ -109,7 +109,7 @@ const Skills = () => {
         <section>
           <div className="bg-[#181823] gap-4 p-4">
             <img src="/images/pokedex.jpg" alt="" />
-            <h2 className="text-2xl font-bold">CoinView Mobile App Design</h2>
+            <h4 className="text-2xl font-bold">CoinView Mobile App Design</h4>
             <p className="text-[#8491A0]">
               the pokedex was a project that I really enjoyed doing because it
               is very complete, it took me back to my childhood.
@@ -118,7 +118,7 @@ const Skills = () => {
 
           <div className="bg-[#181823] gap-4 p-4 mt-4">
             <img src="/images/rick.jpg" alt="" />
-            <h2 className="text-2xl font-bold">T-Box Mobile Design</h2>
+            <h4 className="text-2xl font-bold">T-Box Mobile Design</h4>
             <p className="text-[#8491A0]">
               the rick and morty application allows us to show the use of
               paging.
